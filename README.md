@@ -12,3 +12,7 @@ Key Features:
 The project includes full source code and detailed documentation to help you set it up and run it effortlesly. Perfect for system admins, network engineers, and cybersecurity enthusiasts! 💻✨
 
 Feel free to reach out or contribute if you'd like to get involved! 💬
+
+🔗 Check it out: www.codelivly.com
+📸 Follow us on Instagram: instagram.com/codelivly
+💬 Join the community: t.me/codelivly
